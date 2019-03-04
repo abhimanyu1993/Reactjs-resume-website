@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name":"Abhimanyu Tyagi",
+    "occupation":"Full Stack Software Developer",
+    "description":"I like to use my problem solving skills and creativity to develop better software solutions.",
+    "image":"profilepic.jpg",
+    "bio":"I am a Full Stack Web and SalesForce developer with experience working in Agile methodology. Currently I am finishing up my Masters of Science in Computer Science and polishing my skill set in React.js, React Native and SalesForce",
+    "contactmessage":"Feel free to reach out to me on LnkedIn or drop me an email using the contact form below.",
+    "email": "abhimanyu1993@gmail.com",
+    "phone": "(716) 908-7348",
+    "address":{
+      "street":"",
+      "city":"New York",
+      "state":"NY",
+      "zip": ""
+    },
+    "website": "http://tyagiabhi.org/",
+    "resumedownload":"https://www.docdroid.net/SnPwJfQ/abhimanyu-tyagi-resume.doc",
+    "social":[
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tyagiabhimanyu/",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"https://github.com/abhimanyu1993",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are some of the technologies I am skilled in",
+    "education":[
+      {
+        "school":"Bellevue University",
+        "degree":"Masters of Science in Computer Science",
+        "graduated":"Expected Oct 2019",
+        "description":"Software Development Concentration, 4.0 cumulative GPA."
+      },
+      {
+        "school":"University at Buffalo",
+        "degree":"Bachelors, Communication and Computer Science",
+        "graduated":"May 2017",
+        "description":"As a student at UB, I acquired the skills and fundamentals of computer science and professional communication skills and marketing strategies.."
+      }
+    ],
+    "work":[
+      {
+        "company":"HootAt",
+        "title":"CTO/App developer",
+        "years":"August 2018 - Present",
+        "description":" Developed a social media mobile first platform that connects users with both the distant and nearby world. Performed responsibilities as a CTO to establish trategy to use company's resources on development and design."
+      },
+      {
+        "company":"Fidelis Care",
+        "title":"Software Engineer (SalesForce) ",
+        "years":"April 2018 - Jul 2018",
+        "description":"Collaborated with a team of on-site and off shore developers to work on multiple SalesForce applications. Worked in all stages of SDLC from requirement gathering, design and deployment"
+      },
+      {
+        "company":"RingLead",
+        "title":"Front end and Salesforce developer",
+        "years":"June 2017 - February 2018",
+        "description":"Managed website for Ringlead and a SalesForce application(UniqueEntry) on the appExchange. Improved test code coverage to upto 90% for test classes"
+      },
+      {
+        "company":"University at Buffalo",
+        "title":"Web Developer Student Assistant",
+        "years":"June 2016 - May 2017",
+        "description":"Shadowed a senior developer to manage large, complex projects for University’s sports and athletics website. Collaborated with designers to create clean interfaces and simple, intuitive interactions for the front end of website"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git/Version Control",
+        "level":"90%"
+      },
+      {
+        "name":"Reactjs and React native",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript (ES6)",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5 and CSS3",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Apex and VisualForce (SalesForce)",
+        "level":"90%"
+      },
+      {
+        "name":"Algorithms and Data Structures (CS fundamentals)",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Albums React Native mobile app",
+        "category":"React Native Apps",
+        "image":"albums.jpg",
+        "url":"https://github.com/abhimanyu1993/Albums"
+      },
+      {
+        "title":"Instagram Clone",
+        "category":"React Native Apps",
+        "image":"instaClone.jpg",
+        "url":"https://github.com/abhimanyu1993/InstaClone"
+      },
+      {
+        "title":"New Era Hats Hackathon App Prototype",
+        "category":"Mobile App Prototype",
+        "image":"newEra.jpg",
+        "url":"https://projects.invisionapp.com/d/login?redir=%2Fd%2Fmain#/projects/9561156"
+      },
+      {
+        "title":"Old Resume Website",
+        "category":"A simple Jekyll Resume Website",
+        "image":"resume-Website.jpg",
+        "url":"https://github.com/abhimanyu1993/abhimanyu1993.github.io"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Testimonial #1",
+        "user":"Author #1"
+      },
+      {
+        "text":"Testimonial #2",
+        "user":"Author #2"
+      }
+    ]
+  }
+}
